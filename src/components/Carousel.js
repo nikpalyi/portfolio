@@ -7,6 +7,7 @@ import videoplayer from '../assets/images/video.png';
 import comment from '../assets/images/comment1.png';
 import color from '../assets/images/color1.png';
 import age from '../assets/images/age.png';
+import todo from '../assets/images/todo.png';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
@@ -53,6 +54,14 @@ class Carousel extends React.Component {
           subTitle: 'built in React',
           imgSrc: age,
           link: 'https://nikpalyi.github.io/ageteller/',
+          selected: false
+        },
+        {
+          id: 5,
+          title: 'To Do List',
+          subTitle: 'built in React',
+          imgSrc: todo,
+          link: 'https://nikpalyi.github.io/todo-react-hooks/',
           selected: false
         }
       ]
