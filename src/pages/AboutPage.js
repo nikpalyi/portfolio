@@ -9,46 +9,38 @@ function AboutPage(props) {
 
       <Content>
         <p>
-          Hello, my name is Nikolett. I'm a full stack engineer with experience
-          in Angular, AngularJS, Express JS, Node JS, Oracle SQL, MongoDB, and
-          React.
+          Hello, my name is Nikolett. I'm a junior fronted developer with
+          experience in React, CSS, HTML, SQL.
         </p>
 
         <p>
-          My dream is to one day start my own business and become an
-          entrepreneur (currently working on some ideas).
+          My dream is to continut my journey on web development and become an
+          expert to help on StackOverFlow people struggling on coding.
         </p>
 
         <p>
           I'm constantly learning new things. currently those things include
-          gaining more experience with MongoDB, React, Express JS, and Node JS
+          gaining more experience with Java, Spring, Angular and more React.
         </p>
 
         <p>
-          My latest project, Dev Grub, is a cookbook for developers. You can
-          check it out{' '}
-          <a
-            href='https://devgrub.com'
-            target='_blank'
-            rel='noopener noreferrer'
-          >
-            here
-          </a>
-          , or on the homepage. It is built with Angular, MongoDB, Express JS,
-          and Node JS. However, I will be rebuilding it using React in the
-          coming months
+          After shifting my career from IT support to web development, proving
+          great adaptability, versatility and ability to acquire new technical
+          skills, my goal is to help my team to get the best out of them,
+          inspiring and able to turn ideas into reality. I believe in
+          collaboration and sharing.
         </p>
 
         <p>
-          When I'm not learning something new chances are I'm creating some
-          YouTube videos. You can find those{' '}
-          <a
-            href='http://www.youtube.com/c/GarrettLove1'
-            target='_blank'
-            rel='noopener noreferrer'
-          >
-            here
-          </a>
+          I have a Master Degree from University of Fine Arts and a Higher
+          Diploma from National College. Last year I worked with with a super
+          collaborative and creative team at Wipro Digital with UX designers,
+          project managers, and back-end engineers to implement versatile
+          front-end solutions to web development issues in Scrum.
+        </p>
+        <p>
+          In my spare time I go out in the nature, mostly in the Wicklow
+          mountains and I cycle everyday.{' '}
         </p>
       </Content>
     </div>

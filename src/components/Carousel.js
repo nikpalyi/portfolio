@@ -2,10 +2,10 @@ import React from 'react';
 
 import Card from '../components/Card';
 
-import hungry from '../assets/images/hungry.jpg';
-import videoplayer from '../assets/images/video-player.png';
-import comment from '../assets/images/comment.png';
-import color from '../assets/images/color.png';
+import hungry from '../assets/images/hungry1.png';
+import videoplayer from '../assets/images/video.png';
+import comment from '../assets/images/comment1.png';
+import color from '../assets/images/color1.png';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
