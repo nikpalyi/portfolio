@@ -9,8 +9,8 @@ function AboutPage(props) {
 
       <Content>
         <p>
-          Hello, my name is Nikolett. I'm a junior fronted developer with
-          experience in React, CSS, HTML, SQL.
+          Hello, my name is Nikolett, based in Dublin. I'm a junior fronted
+          developer with experience in React, CSS, HTML, SQL.
         </p>
 
         <p>

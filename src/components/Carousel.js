@@ -6,6 +6,7 @@ import hungry from '../assets/images/hungry1.png';
 import videoplayer from '../assets/images/video.png';
 import comment from '../assets/images/comment1.png';
 import color from '../assets/images/color1.png';
+import age from '../assets/images/age.png';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
@@ -44,6 +45,14 @@ class Carousel extends React.Component {
           subTitle: 'built in React',
           imgSrc: color,
           link: 'https://nikpalyi.github.io/color-picker-react/',
+          selected: false
+        },
+        {
+          id: 4,
+          title: 'Age Teller',
+          subTitle: 'built in React',
+          imgSrc: age,
+          link: 'https://nikpalyi.github.io/ageteller/',
           selected: false
         }
       ]
