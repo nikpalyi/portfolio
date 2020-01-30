@@ -26,10 +26,10 @@ class App extends React.Component {
         text: 'Checkout my side projects below'
       },
       about: {
-        title: 'About Me'
+        title: 'about me'
       },
       contact: {
-        title: "Let's Talk"
+        title: 'contact'
       }
     };
   }
